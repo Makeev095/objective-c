@@ -7,7 +7,7 @@
 
 #import <Foundation/Foundation.h>
 
-void task1() {
+void task1(void) {
             // (x * x) - (8 * x) + 12 = 0
     
             int a = 1;
@@ -34,7 +34,7 @@ void task1() {
             }
 }
 
-void task2() {
+void task2(void) {
     // 12 * (x * x) - (4 * x) + 2 = 0
             int a = 12;
             int b = -4;
@@ -60,7 +60,7 @@ void task2() {
             }
 }
 
-void task3() {
+void task3(void) {
     // (x * x) - (100 * x) - 2 = 0
             int a = 1;
             int b = -100;
